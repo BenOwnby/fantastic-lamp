@@ -50,7 +50,7 @@ public class TeaCup extends Item{
 				System.out.println("the perfect tepmature");
 			}
 			else {
-				System.out.println("the tea is too hot, and you drop the cup");
+				System.out.println("too hot, and you drop the cup");
 				teaLevel = -2000;
 			}
 		}
